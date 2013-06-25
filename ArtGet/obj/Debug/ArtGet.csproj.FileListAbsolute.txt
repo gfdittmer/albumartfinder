@@ -1,0 +1,77 @@
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe.config
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.pdb
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.csprojResolveAssemblyReference.cache
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\MainWindow.baml
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\MainWindow.g.cs
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\App.g.cs
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet_MarkupCompile.cache
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.g.resources
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.Properties.Resources.resources
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.csproj.GenerateResource.Cache
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.exe
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.pdb
+c:\users\wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\bin\Debug\taglib-sharp.dll
+C:\Users\Wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe.manifest
+C:\Users\Wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.application
+C:\Users\Wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.exe.manifest
+C:\Users\Wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.application
+C:\Users\Wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\VersionBox.baml
+C:\Users\Wilson\documents\visual studio 2012\Projects\ArtGet\ArtGet\obj\Debug\VersionBox.g.cs
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe.config
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.exe
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.pdb
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.csprojResolveAssemblyReference.cache
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\MainWindow.baml
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\VersionBox.baml
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\MainWindow.g.cs
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\VersionBox.g.cs
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\App.g.cs
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet_MarkupCompile.cache
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.g.resources
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.Properties.Resources.resources
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.csproj.GenerateResource.Cache
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe.manifest
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.application
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.pdb
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.exe.manifest
+D:\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.application
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe.config
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.exe
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.pdb
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe.manifest
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.application
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.pdb
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.csprojResolveAssemblyReference.cache
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\MainWindow.baml
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\VersionBox.baml
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\MainWindow.g.cs
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\VersionBox.g.cs
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\App.g.cs
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet_MarkupCompile.cache
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.g.resources
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.Properties.Resources.resources
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.csproj.GenerateResource.Cache
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.exe.manifest
+C:\Users\Wilson\Dropbox\Dev\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.application
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe.config
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.exe
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.pdb
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe.manifest
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.application
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.exe
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\bin\Debug\ArtGet.pdb
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.csprojResolveAssemblyReference.cache
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\MainWindow.baml
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\VersionBox.baml
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\MainWindow.g.cs
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\VersionBox.g.cs
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\App.g.cs
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet_MarkupCompile.cache
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.g.resources
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.Properties.Resources.resources
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.csproj.GenerateResource.Cache
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.exe.manifest
+C:\Users\Wilson\Dropbox\Dev\C#\Some projects from laptop\Visual Studio 2012\Projects\ArtGet\ArtGet\obj\Debug\ArtGet.application

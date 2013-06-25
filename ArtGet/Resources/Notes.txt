@@ -1,0 +1,65 @@
+TO DO:
+Support for more audio files
+More in depth progress reporting, maybe an "advanced" diagnostic section that could be hidden
+MORE Error checking is needed:
+	Look into the folder attributes/file numbers to have program notice if they chose the wrong folder
+Intuitive output of failed albums
+Better cancellation
+Clean up code
+
+Possible new multithreading model:
+	Use anywhere from 8-32 threads for getting the artwork URLs
+	Use ONLY 1 or 2 for applying artwork
+
+for v1.0 - test on Operating Systems
+
+v0.1:
+	Set up basic algorithm
+	Set up basic GUI
+	Threaded operation into background and put together progress bars
+	Support for mp3 only
+	Simple crawling only, not thorough - added option to GUI anyway (disabled)
+	Very basic error catching in place
+
+v0.1.1:
+	Split browse and crawl with two BackgroundWorkers and add button enabling/disabling
+	Added multithreading:
+		8 Threads
+		Each thread both parses and adds album art
+		Added base64 encoding to have wild card art names in temporary .jpgs
+	Reverted restrictive progress struct with fixed stepping
+	Added simple failure report at end of operation
+	Added deleting of temporary art files at end of operation
+
+v0.2
+	Undid thread grouping to make continuous feed through 8 threads
+	Added M4A Support
+	Added corrupted audio output/detection
+	Fixed cancel button on folder browsing
+	Updated progress reporting while crawling
+v0.2.1
+	Rearranged gui, removed thorough option
+	Added support for cancelling crawling
+	fixed small glitch in reporting how many albums have been crawled by using separate int for albums finished
+	Made program aware of blank artists/albums
+v0.3
+	Added .NET version watching with custom Window
+	Tweaked layout (cancel button)
+	Cleaned up Song.cs and Tools.cs
+	Began messing with thorough crawl
+		Divide image into 9 subsections (3x3)
+		Get every tenth pixel, take average
+		Get list of common art
+		Pick highest reso version
+
+
+Trashed thorough crawl
+added really in depth error checking
+revising .NET stuff
+Added tooltip on labels and diabled horizontal scroll bar
+Fixed aspect ratio errors with integer divison
+Redid layout with small images and responsivity
+
+Did some testing on other computers
+Starting to clean up code
+Added support for browse cancellation, and fixed up button enabling/disabling

@@ -1,0 +1,36 @@
+﻿<Window x:Class="ArtGet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ArtGet" Height="480" Width="709" Loaded="Window_Loaded" MinWidth="480" MinHeight="320">
+    <Window.Resources>
+        <Style TargetType="ListViewItem">
+            <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+
+        <Grid HorizontalAlignment="Stretch" Height="84" VerticalAlignment="Top" Background="#FFF7F7F7" Margin="0,0">
+            <Button x:Name="buttonBrowse" Width="210" HorizontalAlignment="Left" Margin="60,0,0,0" VerticalAlignment="Center" Click="buttonBrowse_Click" Height="44">
+                <DockPanel>
+                    <Image Source="/ArtGet;component/Resources/open.png" Width="28" Height="28" HorizontalAlignment="Left"/>
+                    <Label Content="Where is your library located?" HorizontalContentAlignment="Center"/>
+                </DockPanel>
+            </Button>
+            <Button x:Name="buttonGetArt" HorizontalAlignment="Right" Margin="0,0,60,0" VerticalAlignment="Center" Width="103" Height="44" RenderTransformOrigin="0.489,0.774" IsEnabled="False" Click="buttonGetArt_Click">
+                <DockPanel>
+                    <Image Source="/ArtGet;component/Resources/image.png" Width="28" Height="28" HorizontalAlignment="Left" />
+                    <Label Content="Get Art!" HorizontalContentAlignment="Center"/>
+                </DockPanel>
+            </Button>
+        </Grid>
+
+        <Grid HorizontalAlignment="Stretch" Height="28" Margin="10,0,10,10" VerticalAlignment="Bottom">
+            <ProgressBar x:Name="progressBar" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0" LargeChange="0.1" SmallChange="0.01" Maximum="1000"/>
+            <Label x:Name="progressLabel" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Button x:Name="buttonCancel" Content="Cancel" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="53" Click="Button_Click_1" IsEnabled="False"/>
+        </Grid>
+        <ListView x:Name="consoleListView" HorizontalAlignment="Stretch" Margin="100,120,100,70" VerticalAlignment="Stretch" ScrollViewer.HorizontalScrollBarVisibility="Disabled" />
+        
+
+    </Grid>
+</Window>

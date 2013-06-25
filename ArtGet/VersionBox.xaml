@@ -1,0 +1,13 @@
+﻿<Window x:Class="ArtGet.VersionBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title=".NET update required" Height="137.809" Width="334.982" ResizeMode="NoResize" Loaded="Window_Loaded_1">
+    <Grid>
+
+        <Label x:Name="labelVersion" Content="Current .NET version: 0.0" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,47" Height="26"/>
+        <Label Content="ArtGet requires .NET Framework 4.0!" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top"/>
+        <Button Content="Okay, download .NET 4.0!" HorizontalAlignment="Left" Margin="20,0,0,10" VerticalAlignment="Bottom" Width="146" Click="Button_Click_2"/>
+        <Button Content="Cancel" HorizontalAlignment="Right" Margin="0,0,30,10" VerticalAlignment="Bottom" Width="74" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>
